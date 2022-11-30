@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "MotoModem"; 
-const char* password = "beriGoodPassword21";
+const char* ssid = "yourwifi"; 
+const char* password = "yourpassword";
 int red = D5; 
 int yellow = D6; 
 int green = D7;
